@@ -201,3 +201,5 @@ Way Way
 Ways Ways
 Well Wl
 Wells Wls
+West W
+East E
